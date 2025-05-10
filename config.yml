@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 General Discussion
+    url: https://github.com/AapseMatlb/pickasso-vision-inference/discussions
+    about: Start a discussion for general questions or feedback.

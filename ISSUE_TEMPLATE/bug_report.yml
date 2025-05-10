@@ -1,0 +1,27 @@
+---
+name: 🐞 Bug Report
+about: Report a problem with Pickasso Vision Inference
+title: "[BUG] "
+labels: bug
+assignees: ''
+
+---
+
+### Description
+<Brief description of the bug>
+
+### Steps to Reproduce
+1. Step one
+2. Step two
+3. ...
+
+### Expected Behavior
+<Describe what you expected to happen>
+
+### Screenshots (if applicable)
+<Attach screenshots>
+
+### Environment
+- OS:
+- Python Version:
+- Branch/Version:
